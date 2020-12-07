@@ -229,7 +229,7 @@ h3 {
 
 .img-tuna {
 	position: absolute;
-	top: 110%;
+	top: 115%;
 	left: 5%;
 	width: 21.7%;
 	height: 33%;
@@ -314,7 +314,7 @@ b {
 .txt4 p {
 	position: absolute;
 	left: 32%;
-	top: 110%;
+	top: 115%;
 	font-family: courier new;
 	border: 2px solid green;
 	padding: 10px;
