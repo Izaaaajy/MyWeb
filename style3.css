@@ -386,18 +386,18 @@ b {
 
 .img-lg {
 	position: absolute;
-	top: 12%;
-	left: 1%;
-	width: 400px;
-	height: 350px;
+	top: 15%;
+	left: 2%;
+	width: 450px;
+	height: 450px;
 	border: 10px solid white;
 	background-color: #eee;
 }
 
 .cap h1 {
 	position: absolute;
-	top: 64%;
-	left: 8%;
+	top: 75%;
+	left: 4%;
 	font-family: gadget;
 	font-size: 35px;
 }
