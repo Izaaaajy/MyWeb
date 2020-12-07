@@ -120,7 +120,7 @@ h1 {
 
 h2 {
 	position: absolute;
-	top: 52%;
+	top: 53%;
 	right: 5%;
 	font-size: 30px;
 	font-family: georgia;
@@ -433,7 +433,7 @@ b {
 
 .txt-ms p {
 	position: absolute;
-	right: 8.5%;
+	right: 8%;
 	top: 83%;
 	font-size: 30px;
 	border: 2px dashed green;
