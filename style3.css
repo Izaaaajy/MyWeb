@@ -397,7 +397,7 @@ b {
 .cap h1 {
 	position: absolute;
 	top: 73%;
-	left: 20%;
+	left: 18%;
 	font-family: gadget;
 	font-size: 35px;
 }
@@ -416,7 +416,7 @@ b {
 	top: 22%;
 	border: 1px solid #eee;
 	padding: 10px;
-	font-size: 18px;
+	font-size: 20px;
 	font-family: tahoma;
 }
 
@@ -433,9 +433,9 @@ b {
 
 .txt-ms p {
 	position: absolute;
-	right: 3%;
+	right: 10%;
 	top: 83%;
-	font-size: 20px;
+	font-size: 30px;
 	border: 2px dashed green;
 	padding: 10px;
 	font-family: lucida console;
