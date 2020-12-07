@@ -212,6 +212,8 @@ h3 {
 	position: absolute;
 	top: 20%;
 	left: 5%;
+	width: 21.7px;
+	height: 33px;
 	border: 10px solid white;
 }
 
@@ -292,7 +294,7 @@ b {
 .txt1 p {
 	position: absolute;
 	left: 32%;
-	top: 57%;
+	top: 65%;
 	font-family: courier new;
 	border: 2px solid green;
 	padding: 10px;
