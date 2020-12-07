@@ -120,7 +120,7 @@ h1 {
 
 h2 {
 	position: absolute;
-	top: 60%;
+	top: 50%;
 	right: 5%;
 	font-size: 30px;
 	font-family: georgia;
@@ -131,7 +131,7 @@ h2 {
 
 .title p {
 	position: absolute;
-	top: 63%;
+	top: 66%;
 	right: 28%;
 	font-size: 25px;
 }
