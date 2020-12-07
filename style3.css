@@ -156,46 +156,46 @@ p {
 
 .img-ct {
 	position: absolute;
-	top: 105%;
+	top: 110%;
 	left: 2%;
-	height: 200px;
-	width: 200px;
+	height: 250px;
+	width: 250px;
 	border: 10px solid white;
 }
 
 .img-ct1 {
 	position: absolute;
-	top: 69%;
+	top: 110%;
 	left: 22%;
-	height: 150px;
-	width: 165px;
+	height: 250px;
+	width: 25px;
 	border: 10px solid white;
 }
 
 .img-dg {
 	position: absolute;
-	top: 69%;
+	top: 110%;
 	left: 41%;
-	height: 150px;
-	width: 165px;
+	height: 250px;
+	width: 250px;
 	border: 10px solid white;
 }
 
 .img-dg1 {
 	position: absolute;
-	top: 69%;
+	top: 110%;
 	right: 22%;
-	height: 150px;
-	width: 165px;
+	height: 250px;
+	width: 250px;
 	border: 10px solid white;
 }
 
 .img-ct2 {
 	position: absolute;
-	top: 69%;
+	top: 110%;
 	right: 2%;
-	height: 150px;
-	width: 165px;
+	height: 250px;
+	width: 250px;
 	border: 10px solid white;
 }
 
