@@ -302,6 +302,29 @@ b {
 	background-color: #eee;
 }
 
+.txt2 p {
+	position: absolute;
+	left: 32%;
+	top: 95%;
+	font-family: courier new;
+	border: 2px solid green;
+	padding: 10px;
+	font-size: 15px;
+	background-color: #eee;
+}
+
+.txt3 p {
+	position: absolute;
+	left: 32%;
+	top: 125%;
+	font-family: courier new;
+	border: 2px solid green;
+	padding: 10px;
+	font-size: 15px;
+	background-color: #eee;
+}
+
+
 .img-cat {
 	position: absolute;
 	top: 20%;
