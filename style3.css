@@ -157,7 +157,7 @@ p {
 .img-ct {
 	position: absolute;
 	top: 110%;
-	left: 2%;
+	left: 1%;
 	height: 250px;
 	width: 250px;
 	border: 10px solid white;
@@ -166,7 +166,7 @@ p {
 .img-ct1 {
 	position: absolute;
 	top: 110%;
-	left: 22%;
+	left: 20%;
 	height: 250px;
 	width: 250px;
 	border: 10px solid white;
@@ -175,7 +175,7 @@ p {
 .img-dg {
 	position: absolute;
 	top: 110%;
-	left: 41%;
+	left: 40%;
 	height: 250px;
 	width: 250px;
 	border: 10px solid white;
@@ -184,7 +184,7 @@ p {
 .img-dg1 {
 	position: absolute;
 	top: 110%;
-	right: 22%;
+	right: 20%;
 	height: 250px;
 	width: 250px;
 	border: 10px solid white;
@@ -193,7 +193,7 @@ p {
 .img-ct2 {
 	position: absolute;
 	top: 110%;
-	right: 2%;
+	right: 1%;
 	height: 250px;
 	width: 250px;
 	border: 10px solid white;
