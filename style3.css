@@ -156,10 +156,10 @@ p {
 
 .img-ct {
 	position: absolute;
-	top: 100%;
+	top: 105%;
 	left: 2%;
-	height: 150px;
-	width: 165px;
+	height: 200px;
+	width: 200px;
 	border: 10px solid white;
 }
 
