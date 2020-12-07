@@ -334,7 +334,16 @@ b {
 
 .img-dog1 {
 	position: absolute;
-	top: 59%;
+	top: 65%;
+	left: 5%;
+	width: 21.7%;
+	height: 33%;
+	border: 10px solid white;
+}
+
+.img-mara {
+	position: absolute;
+	top: 115%;
 	left: 5%;
 	width: 21.7%;
 	height: 33%;
@@ -355,7 +364,7 @@ b {
 .txt3 p {
 	position: absolute;
 	left: 32%;
-	top: 60%;
+	top: 65%;
 	font-family: courier new;
 	border: 2px solid green;
 	padding: 10px;
