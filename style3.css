@@ -389,7 +389,7 @@ b {
 	top: 15%;
 	left: 10%;
 	width: 450px;
-	height: 300px;
+	height: 350px;
 	border: 10px solid white;
 	background-color: #eee;
 }
@@ -397,7 +397,7 @@ b {
 .cap h1 {
 	position: absolute;
 	top: 75%;
-	left: 10%;
+	left: 15%;
 	font-family: gadget;
 	font-size: 35px;
 }
