@@ -363,6 +363,17 @@ b {
 	background-color: #eee;
 }
 
+.txt5 p {
+	position: absolute;
+	left: 32%;
+	top: 115%;
+	font-family: courier new;
+	border: 2px solid green;
+	padding: 10px;
+	font-size: 15px;
+	background-color: #eee;
+}
+
 
 .img-lg {
 	position: absolute;
