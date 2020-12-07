@@ -227,6 +227,15 @@ h3 {
 	border: 10px solid white;
 }
 
+.img-tuna {
+	position: absolute;
+	top: 105%;
+	left: 5%;
+	width: 21.7%;
+	height: 33%;
+	border: 10px solid white;
+}
+
 .nxt {
 	position: absolute;
 	width: 5%;
